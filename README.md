@@ -24,3 +24,33 @@ Enter Name: Rahul
 Enter Age: 21
 Enter Marks: 89
 ✅ Student added successfully!
+# Bank Account Management System (OOP)
+
+## Description
+A console-based Python application that simulates a simple bank account system using Object-Oriented Programming (OOP). Users can create accounts, deposit and withdraw money, check balance, and view account information.
+
+## Features
+- Create account with a unique account number
+- Deposit money into an account
+- Withdraw money from an account
+- Check account balance
+- View detailed account information
+- Input validation to prevent negative deposits/withdrawals and over-withdrawals
+
+## How to Run
+1. Make sure Python 3 is installed.
+2. Clone or download this repository.
+3. Open a terminal in the project folder.
+4. Run the script:
+```bash
+python BankAccount.py
+===== Bank Account Management System =====
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. View Account Info
+6. Exit
+> 1
+Enter account holder name: Deebesh
+✅ Account created successfully! Account Number: 45678
