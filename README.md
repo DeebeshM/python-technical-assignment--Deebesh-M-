@@ -1,2 +1,2 @@
 # python-technical-assignment--Deebesh-M-
-"Console-based Python app to add, view, search, and delete student records with optional JSON persistence."
+"Python console-based projects demonstrating core Python concepts: a Student Record Manager with JSON persistence and a Bank Account Management System using OOP."
