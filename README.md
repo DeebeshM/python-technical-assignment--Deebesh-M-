@@ -13,3 +13,14 @@
 - How to run:
 ```bash
 python Students.py
+===== Student Record Manager =====
+1. Add Student
+2. View Students
+3. Search Student
+4. Delete Student
+5. Exit
+> 1
+Enter Name: Rahul
+Enter Age: 21
+Enter Marks: 89
+✅ Student added successfully!
