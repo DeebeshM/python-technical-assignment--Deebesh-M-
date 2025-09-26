@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import random
 
 # ------------------- BankAccount Class -------------------
@@ -222,4 +222,4 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> 780b414bd02c0b9d99490b9896561469394ffede
+
